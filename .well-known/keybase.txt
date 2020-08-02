@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/londonatil
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://londonatil.london
+  * I am londonatil (https://keybase.io/londonatil) on keybase.
+  * I have a public key ASDkB2jjbE3xZDmaxe_q_eV3gxUL7vnHOLxB_21Y7_86two
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012061453e383e2a657a3fad2d33d6d5fd1b1a5b35a43487480aa8093ffd8cd53ec90a",
+      "host": "keybase.io",
+      "kid": "0120e40768e36c4df164399ac5efeafde57783150beef9c738bc41ff6d58efff3ab70a",
+      "uid": "508cb3045bf2d41a2f75690fa8193919",
+      "username": "londonatil"
+    },
+    "merkle_root": {
+      "ctime": 1596347899,
+      "hash": "f5ce3dc5977bf2bf203b4ac074f9bc3079d3538980a743f1a4f7b3c2d48bb2317731738fd37fc760e10d9e024d94c2b90b45245c22b6420c576bbd026cdb1028",
+      "hash_meta": "3ce3c3de3d0a09526dd95abe5b140be0420cd242736e1c47f5f823f7b0f0d521",
+      "seqno": 17155741
+    },
+    "service": {
+      "entropy": "UQa1ynXT6qiaMu4+m/zbLpkr",
+      "hostname": "londonatil.london",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1596347915,
+  "expire_in": 504576000,
+  "prev": "87b7b0583846a9cfd23e206aa1c13416a19e3286821be928cdedaeb00ac0f777",
+  "seqno": 37,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg5Ado42xN8WQ5msXv6v3ld4MVC+75xzi8Qf9tWO//OrcKp3BheWxvYWTESpcCJcQgh7ewWDhGqc/SPiBqocE0FqGeMoaCG+koze2usArA93fEIEEaoBx+iO9GDrUEJ42RN/DVMyyfAhME5SUjbb012h6SAgHCo3NpZ8RA2CSR7tCt0e2AJOGpZNsl9fTt253DVw6o9S8KNy/jAtlfd9hSwytw+hErSAPQ2Dktu9bzxb81dLOPB4cA/o/XBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIB7CNx9m7ylE3dljLmQdJMuuEmbNaNgPDg7w7El250bPo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/londonatil
+
+==================================================================
